@@ -15,6 +15,21 @@
         "compiler_info": "Android (7284624, based on r416183b) clang version 12.0.5"
       }
     },
+    "shiba": {
+      "name": "Google Pixel 8",
+      "codename": "shiba",
+      "android_version": "android14",
+      "kernel_version": "6.1",
+      "sub_level": "145",
+      "os_patch_level": "2026-02",
+      "stock_kernel": {
+        "release": "-android14-11-g66d850f9dea9-ab14676382",
+        "version_string": "#1 SMP PREEMPT Wed Jan  7 15:04:04 UTC 2026",
+        "build_user": "build-user",
+        "build_host": "build-host",
+        "compiler_info": "Android (10087095, +pgo, +bolt, +lto, -mlgo, based on r487747c) clang version 17.0.2 (https://android.googlesource.com/toolchain/llvm-project d9f89f4d16663d5012e5c09495f3b30ece3d2362), LLD 17.0.2"
+      }
+    },
     "lake_a15": {
       "name": "Xiaomi Redmi 14C",
       "codename": "lake",
