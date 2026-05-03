@@ -19,7 +19,7 @@
       "name": "Google Pixel 8",
       "codename": "shiba",
       "android_version": "android14",
-      "kernel_version": "6.11",
+      "kernel_version": "6.1",
       "sub_level": "145",
       "os_patch_level": "2026-02",
       "stock_kernel": {
